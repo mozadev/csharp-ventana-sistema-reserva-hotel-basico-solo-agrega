@@ -1,0 +1,18 @@
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\bin\Debug\SistemaReservaHotel.exe.config
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.Form1.resources
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.Properties.Resources.resources
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.csproj.GenerateResource.Cache
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\bin\Debug\SistemaReservaHotel.exe
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\bin\Debug\SistemaReservaHotel.pdb
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.exe
+C:\Users\cesar\Downloads\upc  ciclo\fundamenteos de sistemas de informacion\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.pdb
+F:\marco brugman sii\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\bin\Debug\SistemaReservaHotel.exe.config
+F:\marco brugman sii\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\bin\Debug\SistemaReservaHotel.exe
+F:\marco brugman sii\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\bin\Debug\SistemaReservaHotel.pdb
+F:\marco brugman sii\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.Form1.resources
+F:\marco brugman sii\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.Properties.Resources.resources
+F:\marco brugman sii\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.csproj.GenerateResource.cache
+F:\marco brugman sii\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.csproj.CoreCompileInputs.cache
+F:\marco brugman sii\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.exe
+F:\marco brugman sii\semana 1\sesion blended\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\SistemaReservaHotel.pdb
